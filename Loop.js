@@ -6,7 +6,7 @@ for (let i = 50; i >= 1; i -= 10) {
     console.log(i)
 }
 
-let animals = ['cat', 'bear', 'dog', 'dog', 'cat', 'horse']
+let animals = ['cat', 'bear', 'dog', 'dog', 'cat', 'horse','fish']
 /*Loop from beginning */
 for (let i = 0; i < animals.length; i++) {
     console.log(i, animals[i])
